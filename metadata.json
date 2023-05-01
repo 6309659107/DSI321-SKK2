@@ -1,0 +1,21 @@
+{
+    "name": "weather_skk2_test", 
+    "title": "weather_aqi_somkiat_group_2",
+    "notes": "ข้อมูลแสดงคุณภาพอากาศโดยรวมในประเทศไทย",
+    "data_type": "ข้อมูลสถิติ",
+    "owner_org": "tu", 
+    "data_source": "-",
+    "maintainer": "-",
+    "update_frequency_unit": "6ชั่วโมง",
+    "data_format": [
+      "CSV"
+    ],
+    "maintainer_email": "tu@sci.com",
+    "objective": [
+      "ยุทธศาสตร์ชาติ",
+      "แผนพัฒนาเศรษฐกิจและสังคมแห่งชาติ"
+    ],
+    "data_category": "ข้อมูลสาธารณะ",
+    "geo_coverage": "ประเทศ",
+    "license_id": "License not specified"
+}
