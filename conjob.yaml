@@ -3,7 +3,7 @@ kind: CronJob
 metadata:
   name: scripy-web-skk2 # change team-id to your team e.g. wsl01
 spec:
-  schedule: "17 */1 * * *"
+  schedule: "43 */5 * * *"
   jobTemplate:
     spec:
       template:
